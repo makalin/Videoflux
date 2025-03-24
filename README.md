@@ -1,5 +1,7 @@
 # Videoflux
 
+![Videoflux Logo](videoflux_logo.png)
+
 **Videoflux** is a simple, command-line video editing tool powered by AI. It leverages text-to-speech generation and audio analysis to automate tasks like adding voiceovers and removing silent sections from videos. Built with Python, it’s lightweight, practical, and easy to extend.
 
 ## Features
